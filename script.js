@@ -18,5 +18,5 @@ minusBtn.addEventListener("click", () => {
 });
 
 resetBtn.addEventListener("click", () => {
-  resetBtn.innerText = 0;
+  count.innerText = 0;
 });
